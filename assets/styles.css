@@ -1,0 +1,40 @@
+body, html {
+    font-family: Roboto,sans-serif;
+    font-size: 13px;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    margin: 0;
+}
+
+.container{
+	width: 100%;
+    height: 100%;
+}
+
+.section{
+	width: 100%;
+    height: 100%;
+    background: #03a9f4;
+    color: #fff;
+    font-weight: 100;
+    background-position: center center!important;
+    background-size: cover!important;
+    padding-top: 0;
+    position: relative;
+}
+.img-1{
+	background-image:url(nn-night-1.jpg);
+}
+
+.the-link{
+	color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 20px;
+    position: absolute;
+}
+
+.the-link:hover{
+    font-weight: 400;
+}
